@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c9def5b-b28e-4929-9464-a6a215a909d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/.hobbes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/.idea/libraries/src.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/DataMungerStep2_boilerplate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/PROBLEM.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/src/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/src/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/src/com/stackroute/datamunger/query/parser/AggregateFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/src/com/stackroute/datamunger/query/parser/QueryParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/src/com/stackroute/datamunger/query/parser/QueryParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/src/com/stackroute/datamunger/query/parser/Restriction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/src/com/stackroute/datamunger/test/DataMungerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/src/com/stackroute/datamunger/test/DataMungerTestTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/src/com/stackroute/datamunger/test/DataMungerTestTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataMungerStep2/DataMungerStep2_Boilerplate/src/com/stackroute/datamunger/test/DataMungerTestTask3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Java2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/src/AllFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/src/Average.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/src/Evennum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/src/FactorialInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/src/FileUpper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/src/MemberVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/src/PowerFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java3Pe/Immersive-Java-PE3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java3Pe/Immersive-Java-PE3/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java3Pe/Immersive-Java-PE3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java3Pe/Immersive-Java-PE3/src/main/java/com/stackroute/pe3/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java3Pe/Immersive-Java-PE3/src/main/java/com/stackroute/pe3/ConsecutiveNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java3Pe/Immersive-Java-PE3/src/main/java/com/stackroute/pe3/Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java3Pe/Immersive-Java-PE3/src/main/java/com/stackroute/pe3/OddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java3Pe/Immersive-Java-PE3/src/main/java/com/stackroute/pe3/RemoveVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java3Pe/Immersive-Java-PE3/src/main/java/com/stackroute/pe3/StringObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java3Pe/Immersive-Java-PE3/src/main/java/com/stackroute/pe3/StudentMarks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java3Pe/Immersive-Java-PE3/src/test/java/com/stackroute/pe3/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java3Pe/Immersive-Java-PE3/src/test/java/com/stackroute/pe3/ConsecutiveNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java3Pe/Immersive-Java-PE3/src/test/java/com/stackroute/pe3/ExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java3Pe/Immersive-Java-PE3/src/test/java/com/stackroute/pe3/OddEvenTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java3Pe/Immersive-Java-PE3/src/test/java/com/stackroute/pe3/RemoveVowelsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java3Pe/Immersive-Java-PE3/src/test/java/com/stackroute/pe3/StringObjectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java3Pe/Immersive-Java-PE3/src/test/java/com/stackroute/pe3/StudentMarksTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lamda/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lamda/.idea/libraries/hamcrest_all_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lamda/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lamda/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lamda/Test/HumanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lamda/src/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lamda/src/LambdaExpressionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/src/ArrayListReplaceDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/src/Manitest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/src/ModifyKeyValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/src/NumberOfCounts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/src/SetInterfaceSortArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/src/StringArrayElementsKeyValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/src/StudentSorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/testcases/ArrayListReplaceDeleteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/testcases/ModifyKeyValuesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/testcases/NumberOfCountsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/testcases/SetInterfaceSortArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/testcases/StringArrayElementsKeyValueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaexcersise4/.idea/libraries/hamcrest_all_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaexcersise4/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaexcersise4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaexcersise4/Test/Java/MultipleOccurancesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaexcersise4/Test/Java/OccurancesOfInputTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaexcersise4/Test/Java/RegularExpressionImplementationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaexcersise4/Test/Java/ReplaceCharactersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaexcersise4/Test/Java/StringTransposeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaexcersise4/Test/Java/WordSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaexcersise4/src/Java/MultipleOccurances.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaexcersise4/src/Java/OccurancesOfInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaexcersise4/src/Java/RegularExpressionImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaexcersise4/src/Java/ReplaceCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaexcersise4/src/Java/StringTranspose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaexcersise4/src/Java/WordSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solidPrinciples/src/Four/Ac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solidPrinciples/src/Four/ElectricSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solidPrinciples/src/Four/ElectricSwitchMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solidPrinciples/src/Four/ElectricalAppliances.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solidPrinciples/src/Four/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solidPrinciples/src/Four/LightBulb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solidPrinciples/src/Second/Bill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solidPrinciples/src/Second/CarInsuranceSurveyor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solidPrinciples/src/Second/Claim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solidPrinciples/src/Second/ClaimManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solidPrinciples/src/Second/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solidPrinciples/src/Second/GarageBill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solidPrinciples/src/Second/HealthInsuranceSurveyor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solidPrinciples/src/Second/HospitalBill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solidPrinciples/src/Second/InsuranceEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solidPrinciples/src/Second/MainInsurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solidPrinciples/src/Second/Performable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solidPrinciples/src/Second/Validatable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solidPrinciples/src/three/Fly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solidPrinciples/src/three/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solidPrinciples/src/three/Toy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solidPrinciples/src/three/ToyCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solidPrinciples/src/three/ToyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solidPrinciples/src/three/ToyPlane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solidPrinciples/src/three/ToyShip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../solidPrinciples/src/three/ToyType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/com/stackroute/domain/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/com/stackroute/domain/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/java/com/stackroute/domain/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/java/com/stackroute/domain/MovieTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Javaproject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Javaproject/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Javaproject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Javaproject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Javaproject/out/production/Javaproject/ass1.class" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="133" />
+    <option name="y" value="47" />
+    <option name="width" value="1371" />
+    <option name="height" value="815" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c9def5b-b28e-4929-9464-a6a215a909d7" name="Default Changelist" comment="" />
+      <created>1558674099054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558674099054</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1533" height="875" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25622058" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32952252" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main/java/com/stackroute/domain/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
