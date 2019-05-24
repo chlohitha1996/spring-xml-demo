@@ -20,6 +20,12 @@
         <constructor-arg name="gender" value="Male"/>
         <constructor-arg name="age" value="18"/>
     </bean>
+    <!--auto-wire-->
+    <bean id="actor10" class="com.stackroute.domain.Actor">
+        <constructor-arg name="name" value="Shailu"/>
+        <constructor-arg name="gender" value="Male"/>
+        <constructor-arg name="age" value="18"/>
+    </bean>
 
     <bean id="movie" class="com.stackroute.domain.Movie">
         <property name="movieName" value="Nuvvu Thoopehe"/>
@@ -32,11 +38,30 @@
         <constructor-arg name="movieId" value="00789TZ"/>
         <constructor-arg name="actor" ref="actor1"/>
     </bean>
-    <bean id="movie2" class="com.stackroute.domain.Movie">
+    <bean name="MovieA,MovieB" class="com.stackroute.domain.Movie"> <!--name="movie1/2.... can be replaced with "MovieA,MovieB"-->
         <constructor-arg name="movieName" value="Hello"/>
         <constructor-arg name="movieId" value="00789TZ"/>
         <constructor-arg name="actor" ref="actor1"/>
     </bean>
+
+        <!--autowire-->
+
+    <bean name="movie10" autowire="byName" class="com.stackroute.domain.Movie"> <!--name="movie1/2.... can be replaced with "MovieA,MovieB"-->
+        <constructor-arg name="movieName" value="Hello"/>
+        <constructor-arg name="movieId" value="00789TZ"/>
+        <constructor-arg name="actor" ref="actor10"/>
+    </bean>
+
+    <!-- auto wire byType Error
+    <bean name="movie10" autowire="byName" class="com.stackroute.domain.Movie">
+        <constructor-arg name="movieName" value="Hello"/>
+        <constructor-arg name="movieId" value="00789TZ"/>
+        <constructor-arg name="actor" ref="actor10"/>
+    </bean>
+    -->
+
+
+
 
 
 

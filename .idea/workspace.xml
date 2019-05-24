@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c592f122-392c-4666-a3dd-d1fe1f472328" name="Default Changelist" comment="">
+    <list default="true" id="c592f122-392c-4666-a3dd-d1fe1f472328" name="Default Changelist" comment="&quot;task3 Semi- commit&quot;">
       <change afterPath="$PROJECT_DIR$/../DataMungerStep2/DataMungerStep2_Boilerplate/.classpath" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DataMungerStep2/DataMungerStep2_Boilerplate/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DataMungerStep2/DataMungerStep2_Boilerplate/.hobbes" afterDir="false" />
@@ -124,9 +124,27 @@
       <change afterPath="$PROJECT_DIR$/../solidPrinciples/src/three/ToyPlane.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../solidPrinciples/src/three/ToyShip.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../solidPrinciples/src/three/ToyType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/domain/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/stackroute/domain/MovieTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Javaproject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Javaproject/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Javaproject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Javaproject/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Javaproject/out/production/Javaproject/ass1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/domain/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/domain/Actor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/domain/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/domain/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/domain/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/domain/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stackroute/domain/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/stackroute/domain/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -153,8 +171,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/domain/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="50" column="56" selection-start-line="50" selection-start-column="56" selection-end-line="50" selection-end-column="56" />
+            <state>
+              <caret lean-forward="true" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -165,14 +183,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/domain/Movie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="105">
+              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
               <folding>
-                <element signature="e#423#424#0" expanded="true" />
-                <element signature="e#515#516#0" expanded="true" />
-                <element signature="e#579#580#0" expanded="true" />
-                <element signature="e#663#664#0" expanded="true" />
-                <element signature="e#738#739#0" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#539#540#0" expanded="true" />
+                <element signature="e#603#604#0" expanded="true" />
+                <element signature="e#687#688#0" expanded="true" />
+                <element signature="e#762#763#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -182,7 +200,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/domain/Actor.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+              <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
               <folding>
                 <element signature="e#198#199#0" expanded="true" />
                 <element signature="e#230#231#0" expanded="true" />
@@ -194,8 +212,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/beans.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-146">
-              <caret lean-forward="true" />
+            <state relative-caret-position="223">
+              <caret line="55" column="79" selection-start-line="55" selection-start-column="79" selection-end-line="55" selection-end-column="79" />
             </state>
           </provider>
         </entry>
@@ -203,17 +221,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.7.RELEASE/spring-beans-5.1.7.RELEASE.jar!/org/springframework/beans/factory/xml/spring-beans.xsd">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="559" column="4" selection-start-line="559" selection-start-column="4" selection-end-line="559" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/domain/MovieTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="149">
+              <caret line="398" column="20" selection-start-line="398" selection-start-column="20" selection-end-line="398" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -230,16 +239,16 @@
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RECENT_COMMON_BRANCH" value="master" />
+    <option name="RECENT_COMMON_BRANCH" value="constructor-injection" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/domain/moviebean.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/beans.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/domain/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/domain/Actor.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/domain/Movie.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/domain/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/beans.xml" />
       </list>
     </option>
   </component>
@@ -329,6 +338,9 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
@@ -411,8 +423,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1533" height="875" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25622058" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25622058" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -421,7 +434,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297587" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966374" visible="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966374" weight="0.3297587" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -440,7 +453,7 @@
       <window_info anchor="right" id="Ant Build" order="7" weight="0.24949563" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25622058" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25622058" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -449,7 +462,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297587" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49966374" visible="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966374" weight="0.3297587" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -457,7 +470,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3297587" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5003362" side_tool="true" weight="0.3297587" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49966374" weight="0.3297587" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" sideWeight="0.49966374" visible="true" weight="0.3297587" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Maven" order="2" weight="0.32952252" />
@@ -470,7 +483,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;task2 commit&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;task2 commit&quot;" />
+    <MESSAGE value="&quot;task3 commit&quot;" />
+    <MESSAGE value="&quot;task3 Semi- commit&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;task3 Semi- commit&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -500,6 +515,15 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/domain/Movie.xml" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/domain/MovieBean/xml.java" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/moviebean.xml" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.7.RELEASE/spring-beans-5.1.7.RELEASE.jar!/org/springframework/beans/factory/support/ConstructorResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1308">
+          <folding>
+            <element signature="e#0#39671#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -514,26 +538,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.7.RELEASE/spring-beans-5.1.7.RELEASE.jar!/org/springframework/beans/factory/support/ConstructorResolver.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.7.RELEASE/spring-beans-5.1.7.RELEASE.jar!/org/springframework/beans/factory/xml/spring-beans.xsd">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1308">
-          <folding>
-            <element signature="e#0#39671#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="149">
+          <caret line="398" column="20" selection-start-line="398" selection-start-column="20" selection-end-line="398" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.7.RELEASE/spring-beans-5.1.7.RELEASE.jar!/org/springframework/beans/factory/xml/spring-beans.xsd">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/beans.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="559" column="4" selection-start-line="559" selection-start-column="4" selection-end-line="559" selection-end-column="4" />
+        <state relative-caret-position="223">
+          <caret line="55" column="79" selection-start-line="55" selection-start-column="79" selection-end-line="55" selection-end-column="79" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/domain/Actor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
           <folding>
             <element signature="e#198#199#0" expanded="true" />
             <element signature="e#230#231#0" expanded="true" />
@@ -543,29 +565,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/domain/Movie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="105">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
           <folding>
-            <element signature="e#423#424#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#663#664#0" expanded="true" />
-            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+            <element signature="e#687#688#0" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/beans.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-146">
-          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/domain/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="50" column="56" selection-start-line="50" selection-start-column="56" selection-end-line="50" selection-end-column="56" />
+        <state>
+          <caret lean-forward="true" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

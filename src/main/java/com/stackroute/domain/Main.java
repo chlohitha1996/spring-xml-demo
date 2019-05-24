@@ -25,6 +25,17 @@ public class Main {
         Movie movie1 = (Movie)factory.getBean("movie1");
         System.out.println("movie actor details : " + movie1);
 
+        //Using Auto wire
+        Movie movie10 = (Movie)factory.getBean("movie");
+        System.out.println("Using AutoWire");
+        System.out.println("movie actor details : " + movie10);
+
+       //Using Auto wire Error...ByType
+      //  Movie movie10 = (Movie)factory.getBean("movie");
+        //System.out.println("Using AutoWire ByType");
+        //System.out.println("movie actor details : " + movie10);
+
+
 
         ApplicationContext applicationContext=new ClassPathXmlApplicationContext("beans.xml");
         Movie mv=(Movie) applicationContext.getBean("movie");
@@ -50,6 +61,11 @@ public class Main {
         Movie movie5=(Movie) application.getBean("movie");
         Movie movie6=(Movie) application.getBean("movie1");
         System.out.println(movie5==movie6);
+        //Changing the id to name in beans.xml
+        Movie movie7=(Movie) application.getBean("MovieB");//Instead of s: "movie1" We used MovieB
+        System.out.println(movie7);
+
+
 
     }
 

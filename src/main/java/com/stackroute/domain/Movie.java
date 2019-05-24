@@ -3,9 +3,9 @@ package com.stackroute.domain;
 
 public class Movie
 {
-    String movieName;
-    String movieId;
-    Actor actor;
+    private String movieName;
+    private String movieId;
+    private Actor actor;
 
 
     public Movie() {
