@@ -38,6 +38,19 @@ public class Main {
         Movie movie3=(Movie)((DefaultListableBeanFactory)beanDefinitionRegistry).getBean("movie1");
         System.out.println("Actor information using application context:\n" +movie3);
 
+
+
+        //testing the scope
+        ApplicationContext application=new ClassPathXmlApplicationContext("beans.xml");
+        Movie movie2=(Movie) application.getBean("movie");
+        Movie movie4=(Movie) application.getBean("movie");
+
+        System.out.println(movie2==movie4);
+
+        Movie movie5=(Movie) application.getBean("movie");
+        Movie movie6=(Movie) application.getBean("movie1");
+        System.out.println(movie5==movie6);
+
     }
 
 }
