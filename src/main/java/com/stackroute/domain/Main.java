@@ -31,11 +31,9 @@ public class Main {
         System.out.println("movie actor details : " + movie10);
 
        //Using Auto wire Error...ByType
-      //  Movie movie10 = (Movie)factory.getBean("movie");
+      //  //Movie movie10 = (Movie)factory.getBean("movie");
         //System.out.println("Using AutoWire ByType");
         //System.out.println("movie actor details : " + movie10);
-
-
 
         ApplicationContext applicationContext=new ClassPathXmlApplicationContext("beans.xml");
         Movie mv=(Movie) applicationContext.getBean("movie");
@@ -47,8 +45,6 @@ public class Main {
         beanDefinitionReader.loadBeanDefinitions(new ClassPathResource("beans.xml"));
         Movie movie3=(Movie)((DefaultListableBeanFactory)beanDefinitionRegistry).getBean("movie1");
         System.out.println("Actor information using application context:\n" +movie3);
-
-
 
         //testing the scope
         ApplicationContext application=new ClassPathXmlApplicationContext("beans.xml");
