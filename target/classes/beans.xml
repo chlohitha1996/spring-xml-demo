@@ -60,10 +60,12 @@
     </bean>
     -->
 
+    <!--application context aware demo-->
 
-
-
-
+    <bean id="applicationContextAwareDemo" class="awareinterface.ApplicationContextAwareDemo"></bean>
+    <bean id="beanNameAwareDemo" class="awareinterface.BeanFactoryAwareDemo"></bean>
+    <bean id="beanFactoryAwareDemo" class="awareinterface.BeanNameAwareDemo"></bean>
+    <bean id="resourceLoaderAwareDemo" class="awareinterface.ResourceLoaderAwareDemo"></bean>
 
 
 </beans>

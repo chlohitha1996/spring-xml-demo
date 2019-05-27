@@ -65,8 +65,6 @@ public class Main {
         Movie movie7=(Movie) application.getBean("MovieB");//Instead of s: "movie1" We used MovieB
         System.out.println(movie7);
 
-
-
     }
 
 }
