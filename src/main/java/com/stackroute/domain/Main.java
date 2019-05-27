@@ -31,7 +31,7 @@ public class Main {
         System.out.println("movie actor details : " + movie10);
 
        //Using Auto wire Error...ByType
-      //  //Movie movie10 = (Movie)factory.getBean("movie");
+      //  Movie movie10 = (Movie)factory.getBean("movie");
         //System.out.println("Using AutoWire ByType");
         //System.out.println("movie actor details : " + movie10);
 
