@@ -42,7 +42,6 @@ public class Main {
         System.out.println("Actor information using application context:\n "+mv);
 
       // Definition Registry
-
         BeanDefinitionRegistry beanDefinitionRegistry=new DefaultListableBeanFactory();
         BeanDefinitionReader beanDefinitionReader=new XmlBeanDefinitionReader(beanDefinitionRegistry);
         beanDefinitionReader.loadBeanDefinitions(new ClassPathResource("beans.xml"));
