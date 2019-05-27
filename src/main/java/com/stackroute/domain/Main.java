@@ -41,7 +41,7 @@ public class Main {
         Movie mv=(Movie) applicationContext.getBean("movie");
         System.out.println("Actor information using application context:\n "+mv);
 
-
+      // Definition Registry
 
         BeanDefinitionRegistry beanDefinitionRegistry=new DefaultListableBeanFactory();
         BeanDefinitionReader beanDefinitionReader=new XmlBeanDefinitionReader(beanDefinitionRegistry);

@@ -124,14 +124,10 @@
       <change afterPath="$PROJECT_DIR$/../solidPrinciples/src/three/ToyPlane.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../solidPrinciples/src/three/ToyShip.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../solidPrinciples/src/three/ToyType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/domain/Demo/BeanPostProcessorDemoBean.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Javaproject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Javaproject/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Javaproject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Javaproject/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Javaproject/out/production/Javaproject/ass1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/beans.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/beans.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/stackroute/domain/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/stackroute/domain/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/domain/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/domain/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -146,11 +142,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/domain/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="253">
+              <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -186,7 +182,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/awareinterface/BeanNameAwareDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#191#192#0" expanded="true" />
                 <element signature="e#227#228#0" expanded="true" />
@@ -195,11 +191,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/domain/Demo/BeanPostProcessorDemoBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -211,7 +207,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/awareinterface/ResourceLoaderAwareDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -223,7 +219,7 @@
         <entry file="file://$PROJECT_DIR$/Readme.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -283,11 +279,11 @@
         <option value="$PROJECT_DIR$/src/main/java/awareinterface/BeanFactoryAwareDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/awareinterface/ResourceLoaderAwareDemo.java" />
         <option value="$PROJECT_DIR$/src/main/resources/data.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/domain/Main.java" />
         <option value="$PROJECT_DIR$/Readme.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/domain/Demo/BeanLifecycleDemoBean.java" />
         <option value="$PROJECT_DIR$/src/main/resources/beans.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/domain/Demo/BeanPostProcessorDemoBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/domain/Main.java" />
       </list>
     </option>
   </component>
@@ -486,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1558930118934</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="&quot;task6 commit&quot;">
+      <created>1558931506054</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1558931506054</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -509,7 +512,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297587" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966374" visible="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49966374" weight="0.3297587" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -563,7 +566,8 @@
     <MESSAGE value="&quot;task3 Semi- commit1&quot;" />
     <MESSAGE value="&quot;task4 commit&quot;" />
     <MESSAGE value="&quot;Task5 commit&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Task5 commit&quot;" />
+    <MESSAGE value="&quot;task6 commit&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;task6 commit&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -675,7 +679,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/awareinterface/ResourceLoaderAwareDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -685,7 +689,7 @@
     <entry file="file://$PROJECT_DIR$/Readme.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -709,7 +713,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/awareinterface/BeanNameAwareDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#191#192#0" expanded="true" />
             <element signature="e#227#228#0" expanded="true" />
@@ -734,20 +738,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/domain/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/domain/Demo/BeanPostProcessorDemoBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/domain/Demo/BeanPostProcessorDemoBean.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/domain/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="253">
+          <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
