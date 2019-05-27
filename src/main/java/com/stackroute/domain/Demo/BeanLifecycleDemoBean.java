@@ -19,7 +19,7 @@ public class BeanLifecycleDemoBean implements InitializingBean, DisposableBean {
 
     }
     public void CustomDestroy(){
-        System.out.println("In Destroy");
+        System.out.println("In Destroy......");
 
 
     }
